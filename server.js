@@ -25,4 +25,4 @@ client.on("ready", () => {
   }, 1000);
 });
 //////
-client.login("");
+client.login("Mzg2MTg4NDkxOTUzNzk5MTc4.YIQnmQ.Vf5DfUMq96bLf86oNeTGW5TQTn4");
