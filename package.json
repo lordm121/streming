@@ -1,0 +1,17 @@
+{
+  "name": "zalm",
+  "version": "2.1.0",
+  "description": "streaming",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "11.4.2",
+    "express": "^4.17.1",
+    "ytdl-core": "^0.29.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
