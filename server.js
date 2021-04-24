@@ -26,7 +26,7 @@ client.on("ready", () => {
       type: "STREAMING",
       url: "http://www.twitch.tv/faith"
     });
-  }, 1000);
+  }, 3000);
 });
 //////
 client.login("Mzg2MTg4NDkxOTUzNzk5MTc4.YIQnmQ.Vf5DfUMq96bLf86oNeTGW5TQTn4");
