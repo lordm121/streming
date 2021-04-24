@@ -8,7 +8,7 @@ client.on('ready', () => {
 
 client.on("ready", () => {
   console.log(
-    `Online In  on ${client.guilds.cache.size}`
+    `bot is online`
   );
   let statuses = [
     `💔🙂زۆرم خۆش ویستی بەڵام قەدرت نەزانیم`,
